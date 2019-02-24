@@ -2,10 +2,10 @@
   "name": "webserver",
   "version": "1.0.0",
   "description": "This is the server to serve the my website",
-  "main": "server.js",
+  "main": "chetan.js",
   "scripts": {
     "test": "test",
-    "start": "nodemon server.js"
+    "start": "nodemon chetan.js"
   },
   "author": "Priyabrata Pati",
   "license": "ISC",
